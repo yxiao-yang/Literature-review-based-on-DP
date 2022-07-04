@@ -1,0 +1,1 @@
+Machine learning allows computers to identify hidden insights and patterns without being explicitly programmed where to look.
